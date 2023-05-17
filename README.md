@@ -2,7 +2,7 @@
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgubko&column=7&margin-w=40&theme=onedark" alt="dgobko trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgubko&theme=nord&column=7&margin-w=40" alt="dgobko trophy" /></a> </p>
 
 <br />
 
