@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgubko&theme=nord&column=7&margin-w=40" alt="dgobko trophy" /></a> </p>
 
 <br />
+
 ### :hammer: Languages and Tools :
 
 ![image](https://user-images.githubusercontent.com/105132801/236891591-ea114ffb-57e5-4969-9f78-885137e8b1e7.png)
