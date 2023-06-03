@@ -12,7 +12,7 @@ I'm Dmitrii Gubko:
 -   :video_game: Playing video games
 </div>
 
-<p align="right"  width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayredgoose&show_icons=true&locale=en" alt="rayredgoose" /></p>
+<p align="right"  width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgubko&show_icons=true&locale=en" alt="dgubko stats" /></p>
 
 
 ## 🌐 Socials:
