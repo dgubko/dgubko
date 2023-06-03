@@ -2,7 +2,7 @@
 
 ## Hi there! :wave:
 
-<div align="left">
+<div align="left" width="50%">
 I'm Dmitrii Gubko:
 
 -   :hammer_and_pick: HTML & CSS / JavaScript / TypeScript / React / Next.js / Node / Express
@@ -12,7 +12,7 @@ I'm Dmitrii Gubko:
 -   :video_game: Playing video games
 </div>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayredgoose&show_icons=true&locale=en" alt="rayredgoose" /></p>
+<p align="right"  width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayredgoose&show_icons=true&locale=en" alt="rayredgoose" /></p>
 
 
 ## 🌐 Socials:
