@@ -2,20 +2,17 @@
 
 ## Hi there! :wave:
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dgubko.vercel.app/api?username=dgubko&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-dgubko.vercel.app/api?username=dgubko&show_icons=true">
-</picture>
-
+<div align="left">
 I'm Dmitrii Gubko:
 
 -   :hammer_and_pick: HTML & CSS / JavaScript / TypeScript / React / Next.js / Node / Express
 -   :blue_car: Car enthusiast
 -   :heart_eyes_cat: Cat lover
 -   :thought_balloon: Interested in open-source contributions
+-   :video_game: Playing video games
+</div>
 
-# 💫 About Me:
-<br><br>- 🎓 Turing School alumni<br>- 🚗 Car entusiast<br>- 🐈 Cat Lover <br>- 🎮 Gamer
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayredgoose&show_icons=true&locale=en" alt="rayredgoose" /></p>
 
 
 ## 🌐 Socials:
