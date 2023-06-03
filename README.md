@@ -1,7 +1,21 @@
 ![image](https://user-images.githubusercontent.com/105132801/236891425-b0ab7f93-b868-411c-898f-81d56471a1d1.png)
 
+## Hi there! :wave:
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dgubko.vercel.app/api?username=dgubko&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-dgubko.vercel.app/api?username=dgubko&show_icons=true">
+</picture>
+
+I'm Dmitrii Gubko:
+
+-   :hammer_and_pick: HTML & CSS / JavaScript / TypeScript / React / Next.js / Node / Express
+-   :blue_car: Car enthusiast
+-   :heart_eyes_cat: Cat lover
+-   :thought_balloon: Interested in open-source contributions
+
 # 💫 About Me:
-I'm Dmitrii Gubko:<br><br>- 🎓 Turing School alumni<br>- 🚗 Car entusiast<br>- 🐈 Cat Lover <br>- 🎮 Gamer
+<br><br>- 🎓 Turing School alumni<br>- 🚗 Car entusiast<br>- 🐈 Cat Lover <br>- 🎮 Gamer
 
 
 ## 🌐 Socials:
