@@ -2,7 +2,7 @@
 
 ## Hi there! :wave:
 
-<div align="left" width="50%">
+<p align="left" width="50%">
 I'm Dmitrii Gubko:
 
 -   :hammer_and_pick: HTML & CSS / JavaScript / TypeScript / React / Next.js / Node / Express
@@ -10,9 +10,9 @@ I'm Dmitrii Gubko:
 -   :heart_eyes_cat: Cat lover
 -   :thought_balloon: Interested in open-source contributions
 -   :video_game: Playing video games
-</div>
+</p>
 
-<p align="right"  width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgubko&show_icons=true&locale=en" alt="dgubko stats" /></p>
+<p align="right" width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgubko&show_icons=true&locale=en" alt="dgubko stats" /></p>
 
 
 ## 🌐 Socials:
