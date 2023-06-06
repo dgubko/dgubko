@@ -32,11 +32,11 @@ I'm Dmitrii Gubko:
 
 ### :fire: My Stats :
 
-|   |   |
-|---|---|
-| ![image](https://user-images.githubusercontent.com/105132801/236891591-ea114ffb-57e5-4969-9f78-885137e8b1e7.png)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgubko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  |
+![image](https://user-images.githubusercontent.com/105132801/236891591-ea114ffb-57e5-4969-9f78-885137e8b1e7.png)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dgubko&theme=dark&background=000000)](https://git.io/streak-stats)
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dgubko&theme=dark&background=000000)](https://git.io/streak-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgubko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  |
+
+
 
 <br />
 
