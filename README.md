@@ -32,7 +32,9 @@ I'm Dmitrii Gubko:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dgubko&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgubko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgubko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <br />
 
