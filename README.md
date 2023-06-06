@@ -2,6 +2,8 @@
 
 ## Hi there! :wave:
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dgubko&show_icons=true&locale=en" alt="dgubko stats" />
+
 <p align="left" width="50%">
 I'm Dmitrii Gubko:
 
@@ -11,8 +13,6 @@ I'm Dmitrii Gubko:
 -   :thought_balloon: Interested in open-source contributions
 -   :video_game: Playing video games
 </p>
-
-<p align="right" width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgubko&show_icons=true&locale=en" alt="dgubko stats" /></p>
 
 
 ## 🌐 Socials:
