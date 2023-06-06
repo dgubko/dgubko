@@ -10,7 +10,7 @@
 I'm Dmitrii Gubko:
 
 -   :computer: Frontend Developer
--   :hammer_and_pick: HTML & CSS / JavaScript / TypeScript / React / Next.js / Node / Express
+-   :hammer_and_pick: HTML & CSS / JavaScript / TypeScript / React / Next.js
 -   :thought_balloon: Interested in open-source contributions
 -   :paintbrush: Exploring Design Systems
 -   :blue_car: Car enthusiast
