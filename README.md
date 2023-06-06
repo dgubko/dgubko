@@ -2,7 +2,6 @@
 
 ## Hi there! :wave:
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitrii-gubko)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dgubko&show_icons=true&locale=en" alt="dgubko stats" />
