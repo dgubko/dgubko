@@ -9,11 +9,12 @@
 <p align="left" width="50%">
 I'm Dmitrii Gubko:
 
+-   :computer: Frontend Developer
 -   :hammer_and_pick: HTML & CSS / JavaScript / TypeScript / React / Next.js / Node / Express
--   :blue_car: Car enthusiast
--   :heart_eyes_cat: Cat lover
 -   :thought_balloon: Interested in open-source contributions
 -   :paintbrush: Exploring Design Systems
+-   :blue_car: Car enthusiast
+-   :heart_eyes_cat: Cat lover
 -   :video_game: Playing video games
 </p>
 
