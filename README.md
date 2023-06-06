@@ -13,6 +13,7 @@ I'm Dmitrii Gubko:
 -   :blue_car: Car enthusiast
 -   :heart_eyes_cat: Cat lover
 -   :thought_balloon: Interested in open-source contributions
+-   :exploding_head: Exploring Design Systems by contributions to Workday's Canvas Kit
 -   :video_game: Playing video games
 </p>
 
